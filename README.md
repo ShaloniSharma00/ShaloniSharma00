@@ -108,8 +108,17 @@
 
 ---
 
----
 ### 🧩 Fun Fact
 - 📊 I love turning raw data into meaningful insights  
 - 🎧 Code with focus, fueled by coffee ☕  
 - 💡 Always learning and experimenting with ML & AI
+
+---
+
+<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00FFE4&center=true&width=800&height=45&lines=Thank+you+for+visiting+my+profile!;Let's+build+and+innovate+together!" alt="Typing SVG" />
+</p>
+</div>
+
+---
